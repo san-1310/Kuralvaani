@@ -1,0 +1,6 @@
+{
+  "name": "KuralVaani - Tamil Text to Speech Studio",
+  "description": "Advanced Tamil Text to Speech (தமிழ் உரை-ஒலி மாற்றி) studio powered by Gemini AI and neural synthesis, featuring Tanglish transliteration, voice styles, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
